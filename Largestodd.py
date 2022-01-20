@@ -1,7 +1,7 @@
-x = 10
+x = 15
 oddlist = []
 evelist = []
-print("Please type in ten numbers")
+print("Please type in fifteen numbers")
 
 
 while(x != 0):
